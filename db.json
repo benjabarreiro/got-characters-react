@@ -1,0 +1,16 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Jon Snow"
+    },
+    {
+      "name": "Arya Stark",
+      "id": 3
+    },
+    {
+      "name": "Sansa Stark",
+      "id": 4
+    }
+  ]
+}
